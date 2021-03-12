@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frosetrain
-- 👀 I’m interested in racing and likes to make mods for racing games
+- 👀 I’m interested in racing and like to make mods for racing games
 - 🌱 I’m currently learning Python
 
 <!---
