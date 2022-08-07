@@ -4,7 +4,7 @@ Hi, I'm Frosetrain
 
 I'm a random person who likes
 
-- Linux
+- *GNU/*Linux
 - Programming in Python
 - Doing random stuff
 
