@@ -11,8 +11,4 @@
 
 Currently learning Rust
 
-And working on a rather big Python project that is currently in a private repo
-
-In the meantime, you could look at my paint app or maybe my dotfiles.
-
-Otherwise, there is nothing much here.
+And working on [FlyRoblox](https://github.com/frosetrain/flyroblox)
