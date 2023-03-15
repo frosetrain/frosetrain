@@ -7,8 +7,18 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Discord](https://img.shields.io/badge/Frosetrain%236207-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-[![Frosetrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=frosetrain&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=frosetrain&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=frosetrain&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=frosetrain&show_icons=true" />
+</picture>
 
-Currently learning Rust
+I use arch btw
 
-And working on [FlyRoblox](https://github.com/frosetrain/flyroblox)
+Currently working on [scr-auto-driver](https://github.com/frosetrain/scr-auto-driver) and [flyroblox](https://github.com/frosetrain/flyroblox)
