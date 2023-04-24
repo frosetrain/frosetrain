@@ -20,5 +20,3 @@
 </picture>
 
 I use arch btw
-
-Currently working on [scr-auto-driver](https://github.com/frosetrain/scr-auto-driver) and [flyroblox](https://github.com/frosetrain/flyroblox)
