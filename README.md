@@ -12,18 +12,6 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=frosetrain&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=frosetrain&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=frosetrain&show_icons=true" />
-</picture>
-<br>
-<picture>
-<source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=frosetrain&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
@@ -36,8 +24,6 @@
 
 ## Things I do / have done
 
-* Use Arch Linux
-* Raspberry Pi and electronics
-* Write Python
-* Write JavaScript
-* Robotics
+* JavaScript is unavoidable
+* I’m trying to learn electronics
+* What is a Pythonista and is it edible
