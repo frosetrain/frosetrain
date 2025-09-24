@@ -21,9 +21,3 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frosetrain&show_icons=true" />
 </picture>
-
-## Things I do / have done
-
-* JavaScript is unavoidable
-* I’m trying to learn electronics
-* What is a Pythonista and is it edible
